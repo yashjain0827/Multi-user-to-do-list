@@ -1,0 +1,206 @@
+{
+  "company": [
+    {
+      "id": "9cd89528-be50-4bf3-b0ab-a81d9a922769",
+      "companyName": "Rapidsoft technology",
+      "companyToken": "RST"
+    }
+  ],
+  "users": [
+    {
+      "id": "f8ea70cf-a874-41c9-b498-21444006ba39",
+      "userName": "Yash",
+      "password": "123",
+      "companyid": "526e762b-802d-46d0-b742-01ae74b606b6",
+      "role": "user"
+    },
+    {
+      "id": "b15bdbe2-08cf-48c2-933b-b72fe9916bfd",
+      "userName": "Udit",
+      "password": "123",
+      "companyid": "526e762b-802d-46d0-b742-01ae74b606b6",
+      "role": "user"
+    },
+    {
+      "id": "0f775f95-5149-4935-9289-6435b1fdae66",
+      "userName": "Pratik",
+      "password": "123",
+      "companyid": "",
+      "role": "super_admin"
+    },
+    {
+      "id": "0d033dbb-336c-40b3-a0bb-e91a25de9743",
+      "userName": "udit",
+      "password": "123",
+      "companyid": "d8a2478d-3665-4032-a4b5-f1668bcc1688",
+      "role": "user"
+    },
+    {
+      "id": "1ac377a6-0992-4c9f-9910-ee66f78bc5c6",
+      "userName": "demo",
+      "password": "1234",
+      "companyid": "6c1a5eb6-b3db-426d-93b1-66cdb533ce7f",
+      "role": "user"
+    },
+    {
+      "id": "e46cd288-a8fa-43c6-8333-41781923c7dd",
+      "userName": "Yash",
+      "password": "123",
+      "companyid": "c5373ba5-e8db-40fb-94bc-2fbca5be60d5",
+      "role": "user"
+    },
+    {
+      "id": "4c34661a-64d4-48e6-a02c-51a3c91cedda",
+      "userName": "Aditya",
+      "password": "123",
+      "companyid": "c5373ba5-e8db-40fb-94bc-2fbca5be60d5",
+      "role": "user"
+    },
+    {
+      "id": "090ace92-9a56-4bb8-ad39-2cc31c84003b",
+      "userName": "Udit",
+      "password": "123",
+      "companyid": "c5373ba5-e8db-40fb-94bc-2fbca5be60d5",
+      "role": "user"
+    },
+    {
+      "id": "5d81f6b3-fe82-4aa9-9ed3-65a0899d23ef",
+      "userName": "Ayush",
+      "password": "123",
+      "companyid": "141c6257-8ab0-4114-8a32-90aceb1115fb",
+      "role": "user"
+    },
+    {
+      "id": "c8e7b171-69e2-42c4-80f2-f03971f29d51",
+      "userName": "Gopal",
+      "password": "123",
+      "companyid": "141c6257-8ab0-4114-8a32-90aceb1115fb",
+      "role": "user"
+    },
+    {
+      "id": "013ec51c-27d4-4ee3-b2f2-610a2dadc7d0",
+      "userName": "Yash",
+      "password": "123",
+      "companyid": "9cd89528-be50-4bf3-b0ab-a81d9a922769",
+      "role": "user"
+    },
+    {
+      "id": "b03e545b-5bb7-473b-b67c-b55e8eed6f17",
+      "userName": "Udit",
+      "password": "123",
+      "companyid": "9cd89528-be50-4bf3-b0ab-a81d9a922769",
+      "role": "user"
+    },
+    {
+      "id": "0a520a88-1893-49da-8ae3-b24dfd7059e4",
+      "userName": "Ayush",
+      "password": "123",
+      "companyid": "9cd89528-be50-4bf3-b0ab-a81d9a922769",
+      "role": "user"
+    }
+  ],
+  "todolist": [
+    {
+      "id": "25075a60-b2ae-4af4-b744-3258a14d8867",
+      "task": "Complete java",
+      "completed": false,
+      "userid": "b15bdbe2-08cf-48c2-933b-b72fe9916bfd"
+    },
+    {
+      "id": "c7f73492-6992-4b29-a202-ddc53090bf6c",
+      "task": "play football",
+      "completed": false,
+      "userid": "b15bdbe2-08cf-48c2-933b-b72fe9916bfd"
+    },
+    {
+      "id": "d03231d3-388f-4c66-85ce-2dd82ea06373",
+      "task": "play badminton",
+      "completed": false,
+      "userid": "c1b05896-49a7-4a04-87b8-bddd14505c1c"
+    },
+    {
+      "id": "4fec2092-0158-4d23-8196-4d1ef1872082",
+      "task": "go for a walk",
+      "completed": false,
+      "userid": "c1b05896-49a7-4a04-87b8-bddd14505c1c"
+    },
+    {
+      "id": "bbdb1b4d-4b96-4907-89d2-954041b4f100",
+      "task": "ok",
+      "completed": false,
+      "userid": "1ac377a6-0992-4c9f-9910-ee66f78bc5c6"
+    },
+    {
+      "id": "549f5d0b-35fc-4423-80ed-068f7edfb069",
+      "task": "kiimksa",
+      "completed": false,
+      "userid": "f8ea70cf-a874-41c9-b498-21444006ba39"
+    },
+    {
+      "id": "2c1000d5-98b0-48ba-b89b-071643f7a1b0",
+      "task": "learn microsoft tools",
+      "completed": false,
+      "userid": "5d81f6b3-fe82-4aa9-9ed3-65a0899d23ef"
+    },
+    {
+      "id": "a050b8ed-d9e2-4a76-8ae0-aa5d98246d25",
+      "task": "learn dsa",
+      "completed": false,
+      "userid": "5d81f6b3-fe82-4aa9-9ed3-65a0899d23ef"
+    },
+    {
+      "id": "651cc558-0c47-4268-bfd6-073b2a20e350",
+      "task": "learn microsoft tools",
+      "completed": true,
+      "userid": "c8e7b171-69e2-42c4-80f2-f03971f29d51"
+    },
+    {
+      "id": "3747d2be-3ea7-454e-8848-fd6d9fca954b",
+      "task": "learn DSA",
+      "completed": false,
+      "userid": "c8e7b171-69e2-42c4-80f2-f03971f29d51"
+    },
+    {
+      "id": "397a1452-9eda-41c0-b2e3-72163df1e3b1",
+      "task": "Learn React",
+      "completed": false,
+      "userid": "e46cd288-a8fa-43c6-8333-41781923c7dd"
+    },
+    {
+      "id": "792e7da9-4c2d-43d3-af11-74349fd21282",
+      "task": "Learn JS",
+      "completed": false,
+      "userid": "e46cd288-a8fa-43c6-8333-41781923c7dd"
+    },
+    {
+      "id": "4ad316a1-94c3-4c56-929c-5d3d9d4bce1b",
+      "task": "Learn DSA",
+      "completed": false,
+      "userid": "e46cd288-a8fa-43c6-8333-41781923c7dd"
+    },
+    {
+      "id": "15e142df-686b-48d4-996e-04f30a1d1d30",
+      "task": "Learn java",
+      "completed": false,
+      "userid": "090ace92-9a56-4bb8-ad39-2cc31c84003b"
+    },
+    {
+      "id": "2c519264-767a-4685-b5cc-fa8ed9ad8b3b",
+      "task": "Learn DSA",
+      "completed": false,
+      "userid": "090ace92-9a56-4bb8-ad39-2cc31c84003b"
+    },
+    {
+      "id": "ee9173bd-a84c-4c6f-9dda-d384ef30bb15",
+      "task": "bbbbbbbbbb",
+      "completed": false,
+      "userid": "0a520a88-1893-49da-8ae3-b24dfd7059e4"
+    },
+    {
+      "id": "c0e1f1c3-9a82-4db6-a478-c268b4b8b8ca",
+      "task": "asdfhj  gg",
+      "completed": false,
+      "userid": "013ec51c-27d4-4ee3-b2f2-610a2dadc7d0"
+    }
+  ]
+}

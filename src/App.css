@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.containerr {
+  background-color: gray;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-wrapper {
+  background-color: #12343b;
+  min-width: 450px;
+  min-height: 650px;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.header h1 {
+  color: #f1af71;
+  text-align: center;
+  margin: 30px 0px;
+}
+.text-inpit {
+  outline: none;
+  width: 260px;
+  padding: 15px;
+  margin-right: 15px;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.button-add {
+  width: 100px;
+  padding: 15px 15px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 0;
+  background-color: #f1af71;
+  cursor: pointer;
+}
+
+.list-item {
+  display: flex;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  /* max-height: 30px; */
+}
+.button-complete,
+.button-delete,
+.button-edit {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 28px;
+  border-radius: 50%;
+}
+
+.button-complete {
+  color: white;
+  margin-right: 10px;
+}
+
+.button-edit {
+  color: white;
+  margin-right: 10px;
+}
+
+.button-delete {
+  color: white;
+}
+
+.complete {
+  text-decoration-style: solid;
+  text-decoration-line: line-through;
+  text-decoration-color: #ff6c6c;
+  opacity: 0.6;
+}
+
+.list {
+  width: 220px;
+  background-color: #12343b;
+  border: none;
+  color: #ccc;
+  font-size: 20px;
+  padding-left: 10px;
+  margin-right: 15px;
+}
+
+input:focus,
+button:focus {
+  outline: none;
+}
+@media screen and (max-width: 524) {
+}

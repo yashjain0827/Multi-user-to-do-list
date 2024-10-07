@@ -27,5 +27,3 @@ This project is a multi-user to-do list web application built using **React JS**
    - They can manage their to-do lists and perform full CRUD operations.
 
 ---
-
-Feel free to tweak the content or add more details specific to your setup!
